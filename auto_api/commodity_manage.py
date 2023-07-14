@@ -80,7 +80,7 @@ if __name__ == '__main__':
     #     "amount": "50000"
     # }
 
-    cm = CommodityManage(token)
+    # cm = CommodityManage(token)
     # 添加库存
     # cm.increase_sku(increase_sku_body, 1)
 
